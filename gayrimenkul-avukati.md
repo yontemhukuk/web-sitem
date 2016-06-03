@@ -14,9 +14,9 @@ summary: Gayrimenkul avukatı,  tapu iptal ve tescil davası, ortaklığın gide
 
 ### ![Avukat](https://camo.githubusercontent.com/c5b82190d9ea5fb035dd671ad88b1674b2591008/687474703a2f2f692e68697a6c69726573696d2e636f6d2f764c6b6d31342e6a7067 "Avukat")
 
-## Gayrimenkul (Taşınmaz) Davalarında Avukat Zorunlu mu?
+## Gayrimenkul (Taşınmaz) Davasında Avukat Tutmak Zorunlu mu?
 
-Yürürlükteki mevzuata göre,  ceza avukatı ile sanığın temsil edilmesi gereken bazı ceza davaları hariç, diğer hiçbir davada *avukat* tutma zorunluluğu yoktur. Gayrimenkul davalarında da avukat tutma zorunluluğu yoktur. Taraflar davalarını kendileri açarak takip edebilirler. Fakat, taşınmaz davaları birçok teknik boyutu olan davalardır. Tarafların yapacağı en küçük usul hatası davanın usulden kaybedilmesine neden olabilir. Taşınmaz davalarının önemi nedeniyle bir uzman hukukçu vasıtasıyla davanın takip edilmesi tarafların yapacağı muhtemel hataları ortadan kaldıracaktır.
+Yürürlükteki mevzuata göre,  ceza avukatı ile sanığın temsil edilmesi gereken bazı ceza davaları hariç, diğer hiçbir davada [*avukat*](https://tr.wikipedia.org/wiki/Avukat) tutma zorunluluğu yoktur. Gayrimenkul davalarında da avukat tutma zorunluluğu yoktur. Taraflar davalarını kendileri açarak takip edebilirler. Fakat, taşınmaz davaları birçok teknik boyutu olan davalardır. Tarafların yapacağı en küçük usul hatası davanın usulden kaybedilmesine neden olabilir. Taşınmaz davalarının önemi nedeniyle bir uzman hukukçu vasıtasıyla davanın takip edilmesi tarafların yapacağı muhtemel hataları ortadan kaldıracaktır.
 
 ## Taşınmaz Davaları Nelerdir
 
