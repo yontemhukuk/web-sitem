@@ -22,12 +22,12 @@ Yürürlükteki mevzuata göre,  ceza avukatı ile sanığın temsil edilmesi ge
 
 
 
-### Men-i Müdahale ( Müdahalenin Önlenmesi ) Davası 
+### Men-i Müdahale (Müdahalenin Önlenmesi) Davası 
 
 
 Men-i müdahale davası, en sık açılan gayrimenkul davası çeşididir. Herhangi bir taşınmazdan yararlanmak için ya taşınmazın sahibi olmak veya taşınmazın sahibinden icazet almak gerekir. Taşınmazın sahibinden onay alamadan bir taşınmazın herhangi bir şekilde kullanılması hukuka aykırıdır. Taşınmazın bu şekilde kullanılması, mülk sahibine men-i müdahale (müdahalenin önlenmesi) davası açma hakkı verir. Taşınmazın sahibi müdahalenin önlenmesi davasıyla taşınmazına yapılan saldırıyı ortadan kaldırır. Taşınmazın hak sahibi olmayan bir kişi tarafından işgali söz konusu ise işgalci taşınmazdan çıkarılır, hatta haksız işgalciden ecrimisil (işgal tazminatı) talep edilebilir. Birbiriyle bağlantılı birçok talep avukat tarafından sistemli bir davayla ileri sürülerek taşınmaz sahibinin hakkına kavuşması sağlanır.
 
-### İzale-i Şuyu ( Ortaklığın Giderilmesi) Davası 
+### İzale-i Şuyu (Ortaklığın Giderilmesi) Davası 
 
 [**İzale-i Şuyu veya ortaklığın giderilmesi davası**](https://barandogan.av.tr/blog/gayrimenkul-hukuku/izale-i-suyu-ortakligin-giderilmesi-davasi.html), bir taşınmaza birden fazla kişinin sahip olması halinde söz konusu olur. Paylı mülkiyette paydaşlar taşınmazın taksim şeklinde anlaşamayabilir. Bu durumda paydaşlar ortaklığın sona erdirilmesi için izale-i şüyu davası açarlar. Tapu kaydı incelenerek dava, tüm paydaşlara yöneltilmelidir. Taşınmazda pay sahibi olan tüm şahıslar davaya dahil edilmeden bu gayrimenul davası sonuçlandırılamaz. 
 
