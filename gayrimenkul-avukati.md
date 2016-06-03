@@ -1,9 +1,10 @@
+---
 layout: blog
 title: Gayrimenkul Avukatının İşlevi
 category: gayrimenkul-hukuku
 googleAnahtar: Gayrimenkul avukatı, avukat, gayrimenkul davası, taşınmaz tapu iptal ve tescil davası, bakırköy avukat, ataköy avukat, istanbul avukat, ceza avukatı
 keywords:  Gayrimenkul avukatı, avukat, gayrimenkul davası, taşınmaz tapu iptal ve tescil davası, bakırköy avukat, ataköy avukat, istanbul avukat, ceza avukatı
-summary: Gayrimenkul avukatı, Gayrimenkul avukatının işlevi, tapu iptal ve tescil davasında gayrimenkul avukatı, ortaklığın giderilmesi ve gayrimenkul avukatı, müdahalenin önlenmesi ve gayrimenkul avukatının özellikleri açıklanmıştır.
+summary: Gayrimenkul avukatı,  tapu iptal ve tescil davası, ortaklığın giderilmesi davası, müdahalenin önlenmesi davası  ve gayrimenkul avukatının işlevi açıklanmıştır.
 ---
 
 
@@ -54,9 +55,11 @@ Taşınmaz satış vaadi, uygulamada çok çeşitli nedenlerle yapılmaktadır. 
 
 Şufa hakkı veya diğer bir deyişle önalım hakkı, taşınmazın sahibi taşınmazı üçüncü kişilere sattığı takdirde, hak sahibine üçüncü kişiyle aynı koşullarla taşınmazı alma hakkı veren hukuken yenilik doğuran bir haktır. Önalım hakkının koşulları oluşmuşsa gayrimenkul avukatı aracılığıyla tapu iptal ve tescil davası açılabilir. [**Şufa davası**](https://barandogan.av.tr/blog/gayrimenkul-hukuku/sufa-hakki-onalim-davasi.html), paylı mülkiyette pay sahibi olmaktan kaynaklanabileceği gibi sözleşmeden de kaynaklanabilir. Şufa hakkının kaynağına göre  önalım  davası açılmalıdır.
 
-###Miras Hukukundan Doğan Tapu İptal Davası
+### Miras Hukukundan Doğan Tapu İptal Davası
 
-Taşınmaz sahibinin ölümüyle birlikte miras hukukundan kaynaklanan birtakım anlaşmazlıklar çıkabilir. Örneğin, mirasçılardan biri kendi saklı payına tecavüz edildiğini veya muvazaalı bir satış işlemi olduğunu iddia edebilir. Miras hukukunun kendine özgü normları göz önüne alarak hak sahibi için tapu iptal ve tescil davası açılmalıdır. Miras hukukundan kaynaklanan tapu iptal ve tescil davaları taraf sayısının çok olması nedeniyle oldukça uzun sürdüğünden gayrimenkul avukatı yoluyla dava açmak dava sürecinin uzamasını önler.
+Taşınmaz sahibinin ölümüyle birlikte miras hukukundan kaynaklanan birtakım anlaşmazlıklar çıkabilir. Örneğin, mirasçılardan biri kendi saklı payına tecavüz edildiğini veya muvazaalı bir satış işlemi olduğunu iddia edebilir. Mirasta mal paylaşımı davası, bir yönüyle bir tapu iptal ve tescil davasına dönüşebilir.
+
+Miras hukukunun kendine özgü normları göz önüne alarak hak sahibi için tapu iptal ve tescil davası açılmalıdır. Miras hukukundan kaynaklanan tapu iptal ve tescil davaları taraf sayısının çok olması nedeniyle oldukça uzun sürdüğünden gayrimenkul avukatı yoluyla dava açmak dava sürecinin uzamasını önler.
 
 
 ______________________________________________________________________________________________________________________________________
