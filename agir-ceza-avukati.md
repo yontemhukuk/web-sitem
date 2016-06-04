@@ -2,9 +2,9 @@
 layout: blog
 title: Ağır Ceza Avukatı
 category: ceza-hukuku
-googleAnahtar: Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, ceza avukatı istanbul, istanbul ağır ceza avukatı, bakırköy avukat, ataköy avukat
-summary: Ağır Ceza Avukatı Nedir? İşlevi Nedir?, Ağır Ceza Avukatı Bir Uzmanlık Alanı mıdır?, Savunma görevinin başlaması ve bitmesi, savunma görevi ve suç gibi kavramlar özetlenmiştir.
-keywords: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ceza avukatı arıyorum istanbul, istanbul avukat, bakırköy avukat, ataköy avukat
+googleAnahtar: Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları
+summary: Ağır Ceza Avukatının ne anlama geldiği, savunma görevinin başlaması ve bitmesi, savunma görevi ve suç gibi kavramlar özetlenmiştir.
+keywords: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası
 
 ---
 
