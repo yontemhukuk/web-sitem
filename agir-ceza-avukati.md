@@ -5,7 +5,6 @@ category: ceza-hukuku
 googleAnahtar: Ağır Ceza avukatı, avukat, ceza avukatı, ceza avukatları, ağır ceza avukatları, istanbul ceza avukatı
 summary: Ağır Ceza Avukatı Nedir? Ağır Ceza Avukatı ve Savuna, Savunma Görevinin Başlaması ve Bitmesi, Savunma İşlevi ve Suç gibi kavramlar özetlenmiştir.
 keywords: Ceza avukatı, avukat, ağır ceza avukatı, ceza davası, ağır ceza avukatları, istanbul ceza avukatı
-
 ---
 
 ### ![Ağır Ceza Avukatı](https://camo.githubusercontent.com/84f7c716f82f119b4f5c8f4746caa9131cf144ad/687474703a2f2f692e68697a6c69726573696d2e636f6d2f3945454e4f5a2e6a7067 "Ağır Ceza Avukatı")
